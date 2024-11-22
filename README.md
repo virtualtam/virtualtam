@@ -1,16 +1,15 @@
-### Hi there 👋
+### `$ whoami`
 
-<!--
-**virtualtam/virtualtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional software engineer and amateur tinkerer, interested in all things related to:
 
-Here are some ideas to get you started:
+- software engineering practices
+- software development
+- automation
+- self-hosting
+- home automation and homelabs
+- DIY, electronics & tinkering
+- open-source and open-hardware technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `$ whereami`
+
+Surrounded by chocolatines!
