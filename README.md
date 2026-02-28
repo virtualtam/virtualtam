@@ -13,6 +13,3 @@ Professional software engineer and amateur tinkerer, interested in all things re
 ### `$ whereami`
 
 Surrounded by chocolatines!
-
-### `$ curl -I`
-- [virtualtam.flibidi.net](https://virtualtam.flibidi.net/) - Tech blog
