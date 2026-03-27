@@ -1,4 +1,4 @@
-### `$ whoami`
+### `:whoami`
 
 Professional software engineer and amateur tinkerer, interested in all things related to:
 
@@ -10,6 +10,6 @@ Professional software engineer and amateur tinkerer, interested in all things re
 - DIY, electronics & tinkering
 - open-source and open-hardware technologies
 
-### `$ whereami`
+### `:whereami`
 
 Surrounded by chocolatines!
