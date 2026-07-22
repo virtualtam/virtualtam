@@ -1,6 +1,6 @@
 ### `:whoami`
 
-Professional software engineer and amateur tinkerer, interested in all things related to:
+Freelance software engineer and amateur tinkerer, interested in all things related to:
 
 - software engineering practices
 - software development
